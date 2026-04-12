@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
