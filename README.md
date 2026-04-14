@@ -54,4 +54,20 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
