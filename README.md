@@ -70,4 +70,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ADITYA748848/leetcode-solution/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ADITYA748848/leetcode-solution/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
