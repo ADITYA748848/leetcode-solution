@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADITYA748848/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ADITYA748848/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
