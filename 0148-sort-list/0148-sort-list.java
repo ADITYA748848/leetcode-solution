@@ -20,12 +20,14 @@ class Solution {
         
         Collections.sort(list);
         
-        curr = head;
-        for (int val : list) {
-            curr.val = val;
-            curr = curr.next;
+        ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
+        
+        for (int i = 0; i < list.size(); i++) {
+            temp.next = new ListNode(list.get(i));
+            temp = temp.next;
         }
         
-        return head;
+        return dummy.next;
     }
 }
