@@ -28,6 +28,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ADITYA748848/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -37,6 +38,7 @@
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ADITYA748848/leetcode-solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0148-sort-list](https://github.com/ADITYA748848/leetcode-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
 ## Counting Sort
@@ -116,12 +119,14 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ADITYA748848/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ADITYA748848/leetcode-solution/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ADITYA748848/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Design
 |  |
 | ------- |
@@ -152,4 +157,5 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
