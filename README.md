@@ -31,6 +31,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0148-sort-list](https://github.com/ADITYA748848/leetcode-solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -158,4 +160,8 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
