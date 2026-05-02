@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
 ## Divide and Conquer
@@ -146,10 +147,12 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,4 +170,8 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
