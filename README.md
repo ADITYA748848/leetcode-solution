@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/ADITYA748848/leetcode-solution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ADITYA748848/leetcode-solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ADITYA748848/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -179,6 +180,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ADITYA748848/leetcode-solution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ADITYA748848/leetcode-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ADITYA748848/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
