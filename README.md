@@ -36,6 +36,7 @@
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,11 +101,13 @@
 | [0100-same-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADITYA748848/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
@@ -186,4 +190,8 @@
 | [0077-combinations](https://github.com/ADITYA748848/leetcode-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ADITYA748848/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
