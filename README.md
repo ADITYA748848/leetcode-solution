@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ADITYA748848/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ADITYA748848/leetcode-solution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
@@ -153,6 +154,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ADITYA748848/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -193,5 +195,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ADITYA748848/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
