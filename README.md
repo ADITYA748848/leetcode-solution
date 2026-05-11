@@ -26,6 +26,7 @@
 | [0037-sudoku-solver](https://github.com/ADITYA748848/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ADITYA748848/leetcode-solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ADITYA748848/leetcode-solution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ADITYA748848/leetcode-solution/tree/master/0078-subsets) |
@@ -55,6 +56,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ADITYA748848/leetcode-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/ADITYA748848/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ADITYA748848/leetcode-solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ADITYA748848/leetcode-solution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ADITYA748848/leetcode-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ADITYA748848/leetcode-solution/tree/master/0078-subsets) |
