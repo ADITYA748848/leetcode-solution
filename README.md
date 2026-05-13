@@ -142,6 +142,7 @@
 | [0155-min-stack](https://github.com/ADITYA748848/leetcode-solution/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ADITYA748848/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
 |  |
 | ------- |
