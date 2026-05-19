@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ADITYA748848/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/ADITYA748848/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ADITYA748848/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ADITYA748848/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ADITYA748848/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ADITYA748848/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -219,4 +221,8 @@
 | [0036-valid-sudoku](https://github.com/ADITYA748848/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ADITYA748848/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ADITYA748848/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
