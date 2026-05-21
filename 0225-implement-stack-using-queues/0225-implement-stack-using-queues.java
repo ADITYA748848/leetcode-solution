@@ -27,9 +27,9 @@ class MyStack {
         for(int i = 1; i<= q.size()-1; i++){
             q.add(q.remove());
         }
-            int val = q.peek();
-            q.add(q.remove());
-            return val;
+        int val = q.peek();
+        q.add(q.remove());
+        return val;
         
         
     }
