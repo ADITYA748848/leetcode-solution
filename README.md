@@ -148,6 +148,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ADITYA748848/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ADITYA748848/leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ADITYA748848/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ADITYA748848/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/ADITYA748848/leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ADITYA748848/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ADITYA748848/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ADITYA748848/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/ADITYA748848/leetcode-solution/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ADITYA748848/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ADITYA748848/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/ADITYA748848/leetcode-solution/tree/master/0622-design-circular-queue) |
