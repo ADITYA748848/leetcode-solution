@@ -1,65 +1,56 @@
 class MyCircularQueue {
    // queue<Integer> q = new ArrayLinkedList<>();
     int[] arr;
-    int size;
-    int f;
-    int r ;
+    int count;
+    int maxSize;
+    int head ;
    
 
     public MyCircularQueue(int k) {
         arr= new int[k];
-        size = 0;
-        f = -1;
-        r = -1;
+        count = 0;
+        maxSize = k;
+        head = 0;
     }
     
-    public boolean enQueue(int value) {
-        if(size == arr.length ) return false;
-        if(f == -1){
-            f = r = 0;
-        }
-        else{
-           
-            r = (r + 1) % arr.length;
-        }
-        arr[r] = value;
-        size++;
-        return true;
-        
+    public boolean enQueue(int value) { // add karna hoo tab 
+        if(isFull() ) return false;
+        arr[(head + count) % maxSize] = value;
+        count = count+ 1;
+        return true;      
     }
     
-    public boolean deQueue() {
-        if(size == 0) return false;
-        if(size == 1){
-            f = r = -1;
-        }
-        else{
-            f = (f + 1) % arr.length;
-        }
-        size--;
+    public boolean deQueue() { // remove karna hoo tab 
+        if(isEmpty()) return false;
+        head = (head + 1) % maxSize;
+        count = count -1;
         return true;
         
     }
     
     public int Front() {
-        if(size ==0 ) return -1;
-        return arr[f];
+        if(isEmpty()) return -1;
+        return arr[head];
         
     }
     
     public int Rear() {
-        if(size == 0) return -1;
-        return arr[r];
+        if(isEmpty()) return -1;
+        return arr[(head + count -1) % maxSize];
         
     }
     
     public boolean isEmpty() {
-        return size == 0;
+        if(count == 0) return true;
+        else return false;
+        //return size == 0;
         
     }
     
     public boolean isFull() {
-        return size == arr.length;
+        return count == maxSize;
+       //
+        // return size == arr.length;
 
         
     }
