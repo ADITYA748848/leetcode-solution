@@ -235,4 +235,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ADITYA748848/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ADITYA748848/leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
