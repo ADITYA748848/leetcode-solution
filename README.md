@@ -238,5 +238,6 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/ADITYA748848/leetcode-solution/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ADITYA748848/leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
