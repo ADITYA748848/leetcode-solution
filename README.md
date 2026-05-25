@@ -238,6 +238,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/ADITYA748848/leetcode-solution/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/ADITYA748848/leetcode-solution/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/ADITYA748848/leetcode-solution/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ADITYA748848/leetcode-solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
