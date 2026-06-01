@@ -39,6 +39,7 @@
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/ADITYA748848/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -56,6 +57,7 @@
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ADITYA748848/leetcode-solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/ADITYA748848/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -66,6 +68,7 @@
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ADITYA748848/leetcode-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/ADITYA748848/leetcode-solution/tree/master/0905-sort-array-by-parity) |
@@ -179,6 +182,7 @@
 | [0037-sudoku-solver](https://github.com/ADITYA748848/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ADITYA748848/leetcode-solution/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -256,4 +260,8 @@
 | [1683-invalid-tweets](https://github.com/ADITYA748848/leetcode-solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ADITYA748848/leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/ADITYA748848/leetcode-solution/tree/master/1934-confirmation-rate) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
