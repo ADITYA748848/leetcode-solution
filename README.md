@@ -246,6 +246,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/ADITYA748848/leetcode-solution/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/ADITYA748848/leetcode-solution/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/ADITYA748848/leetcode-solution/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ADITYA748848/leetcode-solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
