@@ -10,6 +10,7 @@
 | [0148-sort-list](https://github.com/ADITYA748848/leetcode-solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ADITYA748848/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/ADITYA748848/leetcode-solution/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/ADITYA748848/leetcode-solution/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/ADITYA748848/leetcode-solution/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/ADITYA748848/leetcode-solution/tree/master/0705-design-hashset) |
 | [0905-sort-array-by-parity](https://github.com/ADITYA748848/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
@@ -176,6 +178,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ADITYA748848/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ADITYA748848/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/ADITYA748848/leetcode-solution/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/ADITYA748848/leetcode-solution/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/ADITYA748848/leetcode-solution/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -279,4 +283,8 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/ADITYA748848/leetcode-solution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
