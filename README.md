@@ -278,6 +278,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/ADITYA748848/leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/ADITYA748848/leetcode-solution/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/ADITYA748848/leetcode-solution/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ADITYA748848/leetcode-solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Search
 |  |
 | ------- |
