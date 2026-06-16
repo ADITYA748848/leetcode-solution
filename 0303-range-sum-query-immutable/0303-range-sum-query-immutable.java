@@ -3,18 +3,21 @@ class NumArray {
 
     public NumArray(int[] nums) {
         int n =  nums.length;
-        prefix = new int[ n +1];
+        prefix = new int[ n ];
 
         //  prefix [0] = 0 esliye hai ku ki hum log khud se new arr create kiye hai so starting ka sum zero hai 
         
-        prefix[0] = 0;
+        prefix[0] = nums[0];
 
-        for(int i =0; i< n; i++){
-            prefix[i+1] = prefix[i]+ nums[i];
+        for(int i = 1; i< n; i++){
+            prefix[i] = prefix[i-1]+ nums[i];
         }   
     }
     public int sumRange(int left, int right) {
-        return prefix[right + 1] - prefix[left];        
+        if(left == 0) {
+            return prefix[right];
+        }
+        return prefix[right ] - prefix[left -1];        
     }
 }
 
