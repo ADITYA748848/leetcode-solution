@@ -16,6 +16,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADITYA748848/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/ADITYA748848/leetcode-solution/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/ADITYA748848/leetcode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -35,6 +36,7 @@
 | [0046-permutations](https://github.com/ADITYA748848/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ADITYA748848/leetcode-solution/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/ADITYA748848/leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ADITYA748848/leetcode-solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ADITYA748848/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
