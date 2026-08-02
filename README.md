@@ -70,6 +70,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ADITYA748848/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/ADITYA748848/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/ADITYA748848/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
@@ -169,6 +170,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ADITYA748848/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/ADITYA748848/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
@@ -226,6 +228,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ADITYA748848/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 ## String
@@ -235,6 +238,7 @@
 | [0014-longest-common-prefix](https://github.com/ADITYA748848/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ADITYA748848/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/ADITYA748848/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
