@@ -58,6 +58,7 @@
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ADITYA748848/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
+| [3731-find-missing-elements](https://github.com/ADITYA748848/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0905-sort-array-by-parity](https://github.com/ADITYA748848/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
+| [3731-find-missing-elements](https://github.com/ADITYA748848/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/ADITYA748848/leetcode-solution/tree/master/0705-design-hashset) |
+| [3731-find-missing-elements](https://github.com/ADITYA748848/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
 | ------- |
