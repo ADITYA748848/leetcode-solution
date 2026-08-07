@@ -53,6 +53,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/ADITYA748848/leetcode-solution/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/ADITYA748848/leetcode-solution/tree/master/0705-design-hashset) |
+| [0860-lemonade-change](https://github.com/ADITYA748848/leetcode-solution/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/ADITYA748848/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ADITYA748848/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADITYA748848/leetcode-solution/tree/master/1051-height-checker) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ADITYA748848/leetcode-solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0860-lemonade-change](https://github.com/ADITYA748848/leetcode-solution/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
