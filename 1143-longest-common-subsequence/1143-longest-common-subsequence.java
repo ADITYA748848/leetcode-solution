@@ -15,7 +15,10 @@ class Solution {
         int n = t2.length();
         dp = new int[m][n];
         for(int i=0;i<m;i++){
-                Arrays.fill(dp[i],-1);
+            for(int j=0;j<n;j++){
+                dp[i][j] = -1;
+                //Arrays.fill(dp[i],-1);
+            }
         }
         
         return solve(t1,t2,0,0,m,n);
