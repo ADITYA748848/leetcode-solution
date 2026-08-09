@@ -39,6 +39,7 @@
 | [0046-permutations](https://github.com/ADITYA748848/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ADITYA748848/leetcode-solution/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/ADITYA748848/leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ADITYA748848/leetcode-solution/tree/master/0078-subsets) |
@@ -155,6 +156,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ADITYA748848/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ADITYA748848/leetcode-solution/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ADITYA748848/leetcode-solution/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
@@ -268,6 +270,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ADITYA748848/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ADITYA748848/leetcode-solution/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/ADITYA748848/leetcode-solution/tree/master/2596-check-knight-tour-configuration) |
 ## Trie
 |  |
