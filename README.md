@@ -18,6 +18,7 @@
 | [0060-permutation-sequence](https://github.com/ADITYA748848/leetcode-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ADITYA748848/leetcode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ADITYA748848/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ADITYA748848/leetcode-solution/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [1137-n-th-tribonacci-number](https://github.com/ADITYA748848/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -327,4 +329,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ADITYA748848/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
