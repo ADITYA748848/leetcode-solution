@@ -157,6 +157,7 @@
 | [0338-counting-bits](https://github.com/ADITYA748848/leetcode-solution/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [1137-n-th-tribonacci-number](https://github.com/ADITYA748848/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/ADITYA748848/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/ADITYA748848/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ADITYA748848/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/ADITYA748848/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
 |  |
@@ -330,4 +332,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ADITYA748848/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ADITYA748848/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
