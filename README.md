@@ -16,6 +16,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADITYA748848/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/ADITYA748848/leetcode-solution/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/ADITYA748848/leetcode-solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ADITYA748848/leetcode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ADITYA748848/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ADITYA748848/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ADITYA748848/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ADITYA748848/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/ADITYA748848/leetcode-solution/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ADITYA748848/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
@@ -336,4 +338,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ADITYA748848/leetcode-solution/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ADITYA748848/leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
