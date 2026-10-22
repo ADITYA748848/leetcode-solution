@@ -32,6 +32,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ADITYA748848/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ADITYA748848/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/ADITYA748848/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ADITYA748848/leetcode-solution/tree/master/0037-sudoku-solver) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ADITYA748848/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ADITYA748848/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ADITYA748848/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ADITYA748848/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ADITYA748848/leetcode-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ADITYA748848/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ADITYA748848/leetcode-solution/tree/master/0075-sort-colors) |
